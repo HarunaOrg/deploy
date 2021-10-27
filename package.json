@@ -1,6 +1,6 @@
 {
     "name": "deploy",
-    "homepage": "http://janrolenc.github.io/deploy",
+    "homepage": "https://janrolenc.github.io/deploy",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
